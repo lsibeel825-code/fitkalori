@@ -1,0 +1,6 @@
+{
+  "name": "FitTakip",
+  "description": "Modern ve akıllı Türkçe fitness, kalori, su, kilo ve uyku takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
